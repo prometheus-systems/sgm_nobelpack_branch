@@ -227,8 +227,8 @@ module.exports =
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Projeto_Case\FE_ANGULAR\sgm_novo\sgm\src\polyfills.ts */"hN/g");
-module.exports = __webpack_require__(/*! C:\Projeto_Case\FE_ANGULAR\sgm_novo\sgm\node_modules\@angular-devkit\build-angular\src\webpack\jit-polyfills.js */"rZy+");
+__webpack_require__(/*! C:\projetos-web\frontend\sgm\src\polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! C:\projetos-web\frontend\sgm\node_modules\@angular-devkit\build-angular\src\webpack\jit-polyfills.js */"rZy+");
 
 
 /***/ }),

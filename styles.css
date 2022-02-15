@@ -2492,6 +2492,55 @@ input{
   background-color: blue;
 }
 
+.bmake-green {
+  background-color:green;
+  border:solid 1px #000;
+  padding: 5px 5px;
+  margin: 5px 5px;
+  color:green;
+  width: 30px; 
+}
+
+.bmake-red {
+  background-color: red;
+  border:solid 1px #000;
+  padding: 5px 5px;
+  margin: 5px 5px;
+  color:red; 
+  width: 30px; 
+
+}
+
+.bmake-gray{
+  background-color: rgb(52, 82, 87);
+  border:solid 1px #000;
+  padding: 5px 5px;
+  margin: 5px 5px;
+  color: rgb(52, 82, 87); 
+  width: 30px; 
+
+}
+
+.bmake-blue {
+  background-color: blue;
+  border:solid 1px #000;
+  padding: 5px 5px;
+  margin: 5px 5px;
+  color: blue; 
+  width: 30px; 
+
+}
+
+.bmake-gold {
+  background-color: yellow;
+  border:solid 1px #000;
+  padding: 5px 5px;
+  margin: 5px 5px;
+  color: yellow;
+  width: 30px; 
+ 
+}
+
 .reframe img {
   height: auto;
   width: 150px;
